@@ -1069,8 +1069,11 @@
       "__id__": 21
     },
     "duration": 2000,
+    "showDirection": 0,
     "showY": -320,
-    "hideY": -470
+    "hideY": -470,
+    "showX": 0,
+    "hideX": 0
   },
   {
     "__type__": "cc.Node",
